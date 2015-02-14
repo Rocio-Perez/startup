@@ -1,0 +1,33 @@
+<html>
+<head>
+<body style="background-color:lightgrey">
+<h1 style="font-family:verdana;color:green"><b>ROSARIO</b></h1>
+
+<p>La ciudad Argentina de Rosario esta ubicada en el centro-este argentino, en la provincia de Santa Fe. Es la tercera ciudad mas poblada de Argentina luego de Buenos Aires y Cordoba; y constituye un importante centro cultural, economico, educativo, financiero y de entretenimiento. <br>
+Esta situada sobre el margen occidental del rio Parana, en la hidrovia Parana-Uruguay. Sobre dicho rio esta enclavado un puerto de 140 ha que maneja tanto cargas generales como a granel. <br>
+La ciudad forma parte de una region de gran importancia economica,c erca del 70% de la produccion de cereales del pais se exporta por su puerto. Genera el segundo PGB urbano de Argentina despues del Gran Buenos Aires.<br>
+Foco educativo y cultural, cuenta ademas con importantes museos y bibliotecas y su infraestructura turistica incluye circuitos arquitectonicos, paseos, bulevares y parques. <br>
+La ciudad de Rosario es conocida como la Cuna de la Bandera, siendo su edificacion mas conocida el <a href="http://es.wikipedia.org/wiki/Monumento_hist%C3%B3rico_nacional_a_la_Bandera">Monumento a la Bandera.</a></p> <br>
+
+<img src="Monumento.jpg" atl="Galeria del Monumento" width="200" heigth="200">
+<img src="puente.jpg" atl="Puente Rosario - Victoria" width="200"  heigth="200"> 
+<img src="1A2.jpg" atl="Centro de la ciudad" width="200"  heigth="200"> 
+<img src="000rosario-imagenes-191213.jpg" atl="Parque Independencia" width="200"  heigth="200"> 
+<img src="report_MACRO.jpg" atl="Cilos Davies" width="200" heigth="200">
+<img src="Rosario-ciudad-01.jpg" atl="Vista" width="200" heigth="200"><br>
+
+<video  width="320" height="240" controls>
+<source src="Rosario, Mi ciudad - Santa Fe - Argentina.mp4" type="video/mp4"> </video>
+
+
+
+
+
+
+
+
+
+
+</body>
+</head>
+</html>
