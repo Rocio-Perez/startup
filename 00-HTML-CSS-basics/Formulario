@@ -1,0 +1,59 @@
+<html>
+<head>
+<body>
+
+<form>
+Nombre: <br>
+<input type="text" name="nombre">
+<br><br>
+Apellido:<br>
+<input type="text" name="apellido"><br><br>
+E-mail:<br>
+<input type="text" value="@" name="E-mail"><br><br>
+Fecha de Nacimiento:<br>
+<input type="date" name="fecha de nacimiento"><br><br>
+Deporte Favorito:<br>
+<input list="deportes">
+<datalist id="deportes">
+  <option value="Futbol">
+  <option value="Tennis">
+  <option value="Atletismo">
+  <option value="Bascket">
+  <option value="Rugby">
+</datalist><br><br>
+Biografia:<br>
+<textarea name="message" rows="10" cols="30">
+Escribe algo sobre ti...
+</textarea><br><br>
+<input type="submit" value="Enviar"><input type="reset" value="Borrar informacion">
+
+
+
+
+
+
+
+
+
+ 
+</form>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</head>
+</html>
